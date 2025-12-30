@@ -1,5 +1,5 @@
 #factorial function that returns the factorial of a non-negative integer
-#parametera non-negative integer
+#parameter: a non-negative integer
 def factorial(num):
     if type(num) != int:
       return None
